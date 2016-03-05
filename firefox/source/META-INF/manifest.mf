@@ -1,0 +1,137 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: aL7FjBRedbEHaKn8sOUoxw==
+SHA1-Digest: c45jlL/ubsofBdXAHWZw48cuX7g=
+
+Name: bootstrap.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RCX+ZkAyKxeJZ94IJe/HVQ==
+SHA1-Digest: pCyuWwLONSn8KcFa7ZkowjOKxG4=
+
+Name: harness-options.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: D7bimQ/Y0mvb2j6pREWTsA==
+SHA1-Digest: nIZxFpnp/3YyQcznD0EJxCgPYfw=
+
+Name: locales.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: p3Qh60/6wDH/UunTuTWZjQ==
+SHA1-Digest: DBci+JD/520hUnFSB3zB1xoBE9g=
+
+Name: defaults/preferences/prefs.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1B2M2Y8AsgTpgAmY7PhCfg==
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: resources/nic-cage-addon/data/nic-cage.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JTxw4f8xXJG3sfsCzB4Yvw==
+SHA1-Digest: Y9BhJQah/TlV7rPiNc1VrUHoNr8=
+
+Name: resources/nic-cage-addon/data/nic0.jpg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: C0cnV46FFfwzJTpyZDF6lQ==
+SHA1-Digest: epISA7O3jUEqejv0VRnQIJAKj3g=
+
+Name: resources/nic-cage-addon/data/nic1.jpg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DReqiBMZK8qGMB284azyAA==
+SHA1-Digest: tgOowxQ6Chocf2iIGkiwRz7MQy4=
+
+Name: resources/nic-cage-addon/data/nic10.jpg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: j8Srrrs+ykQ9xSlOBRCVRw==
+SHA1-Digest: XfUrWVaYsVObI2zPrOkms7rZKqg=
+
+Name: resources/nic-cage-addon/data/nic11.jpg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CNKbZiOCDI1/ngTAZnMgXA==
+SHA1-Digest: z8RUZ1+RQ0zLfRbnmcgWFX6ZkgY=
+
+Name: resources/nic-cage-addon/data/nic12.jpg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: x/PXCmAcIWqx0CnvJAR8vw==
+SHA1-Digest: dCGvKxG11GJ8OE+guHBDkpuOS0Q=
+
+Name: resources/nic-cage-addon/data/nic13.jpg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TegvSkqgBUz4FyLAOhTjfg==
+SHA1-Digest: aXVvV8t7VD2yCfMSRHCOegU3jd0=
+
+Name: resources/nic-cage-addon/data/nic14.jpg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OFIcjktM1yYlo9SaNduMqQ==
+SHA1-Digest: rjJMiec6hZZUE/fQpzYKRfMce/s=
+
+Name: resources/nic-cage-addon/data/nic15.jpg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /cmHXWM8Dyd1RnY547yOMg==
+SHA1-Digest: C8OsdK7NBJLy9q6bsA65goiJ3Bk=
+
+Name: resources/nic-cage-addon/data/nic16.jpg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9TIqZk3dYW/E2bBe5BYOCA==
+SHA1-Digest: Cyseeok6NlFH0YtlYmyAQA934qI=
+
+Name: resources/nic-cage-addon/data/nic17.jpg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: y9A5y8R8ycSR7whn8E3Mww==
+SHA1-Digest: StmV9KiiAU1LFGoOrbbfGe6aBoI=
+
+Name: resources/nic-cage-addon/data/nic18.jpg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uNmIQPnebjEXnLGE5lvaHg==
+SHA1-Digest: JP/5CINbjPxVlwZbSj7rdcUe2cs=
+
+Name: resources/nic-cage-addon/data/nic19.jpg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vkrw6mudUVk7V0gA21w++Q==
+SHA1-Digest: ebctzHMDw2dKufRevUE2bdoCiII=
+
+Name: resources/nic-cage-addon/data/nic2.jpg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +tAb4Os99R3BFEZmHiRzcg==
+SHA1-Digest: e/sm5/vFIzCo+YTISOHlwANeO8I=
+
+Name: resources/nic-cage-addon/data/nic3.jpg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pTRX55s+D0e4Ds0+XLWoiA==
+SHA1-Digest: FNnFeMo1vS92yuEuV5/mySfU8Lk=
+
+Name: resources/nic-cage-addon/data/nic4.jpg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1cfsUkvi+YIWrQbCHPLmQA==
+SHA1-Digest: b4fpi8SUp5wJ0umPZJbb81CwgMU=
+
+Name: resources/nic-cage-addon/data/nic5.jpg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qisVJpKhknR6HaLzagLvfQ==
+SHA1-Digest: 0t5QSokaMlb0uL1JCJK8z0S6u4Y=
+
+Name: resources/nic-cage-addon/data/nic6.jpg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lSpJcPUt6v93+rvvaPguMA==
+SHA1-Digest: M4sTohhY88+x5vaQxfQI+sI/6yI=
+
+Name: resources/nic-cage-addon/data/nic7.jpg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zJq0P5HeMudsujcBD9Tkiw==
+SHA1-Digest: g8I6XBUu7MjZeTH0NzZAjoERb2M=
+
+Name: resources/nic-cage-addon/data/nic8.jpg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Lor0Gb1YcpUSUXel8TqAIQ==
+SHA1-Digest: lqQhyjq17Cg3qw6sW1Sn3IvQugw=
+
+Name: resources/nic-cage-addon/data/nic9.jpg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: k3+XkujuuJKPioQXwbLh7Q==
+SHA1-Digest: 3DpAHNQBk+bxclCKhTRIgm6Ve/k=
+
+Name: resources/nic-cage-addon/lib/main.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Cy4XGzocktLwO7JKU6iPLQ==
+SHA1-Digest: 86/D2g1/DiRTs37JpTm5uz4C1G4=
+
